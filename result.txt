@@ -1,0 +1,1 @@
+PuzzleResult [id=3, player=Player [id=1, name=John, birthDate=1991-08-10], missingItems=[1, 2, 3, 9, 10]]
